@@ -8,7 +8,7 @@
 > [**Shaolei Zhang**](https://zhangshaolei1998.github.io/), [**Shoutao Guo**](https://scholar.google.com.hk/citations?user=XwHtPyAAAAAJ), [**Qingkai Fang**](https://fangqingkai.github.io/), [**Yan Zhou**](https://zhouyan19.github.io/zhouyan/), [**Yang Feng**](https://people.ucas.edu.cn/~yangfeng?language=en)\*
 
 
-Stream-Omni is an GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations, with the following features💡:
+Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations, with the following features💡:
 - **Omni Interaction**: Support multimodal inputs including text, vision, and speech, and generate both text and speech responses.
 - **Seamless "see-while-hear" Experience**: Simultaneously output *intermediate textual results* (e.g., ASR transcriptions and model responses) during speech interactions, like the advanced voice service of GPT-4o.
 - **Efficient Training**: Require only a small amount of omni-modal data for training.
