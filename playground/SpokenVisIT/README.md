@@ -6,4 +6,4 @@ Our deepest acknowledgment goes to [VisIT-Bench](https://huggingface.co/datasets
 
 For more information on VisIT-Bench, please refer to the [paper](https://arxiv.org/abs/2308.06595), [blog](https://visit-bench.github.io/), and [code](https://github.com/mlfoundations/VisIT-Bench/).
 
-For more information on SpokenVisIT, please refer to the [paper]() and [GitHub repo](https://github.com/ictnlp/Stream-Omni) of Stream-Omni.
+For more information on SpokenVisIT, please refer to the [paper](https://arxiv.org/abs/2506.13642) and [GitHub repo](https://github.com/ictnlp/Stream-Omni) of Stream-Omni.

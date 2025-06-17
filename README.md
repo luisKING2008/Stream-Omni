@@ -1,6 +1,6 @@
 # Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXX-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.13642-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2506.13642)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface%20-stream--omni--8b-orange.svg)](https://huggingface.co/ICTNLP/stream-omni-8b)
 [![data](https://img.shields.io/badge/%F0%9F%93%91%20Datasets%20-InstructOmni-green.svg)](https://huggingface.co/datasets/ICTNLP/InstructOmni)
 [![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fictnlp%2FStream-Omni&label=Visitors&icon=graph-up&color=%23dc3545)](https://github.com/ictnlp/Stream-Omni)
@@ -132,7 +132,15 @@ Stream-Omni is an end-to-end language-vision-speech chatbot that simultaneously 
 If this repository is useful for you, please cite as:
 
 ```
-
+@misc{streamomni,
+      title={Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model}, 
+      author={Shaolei Zhang and Shoutao Guo and Qingkai Fang and Yan Zhou and Yang Feng},
+      year={2025},
+      eprint={2506.13642},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.13642}, 
+}
 ```
 
 If you have any questions, please feel free to submit an issue or contact `zhangshaolei20z@ict.ac.cn`.
