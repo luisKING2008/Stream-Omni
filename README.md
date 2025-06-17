@@ -18,9 +18,14 @@ Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously 
 </p>
 
 ## 🖥 Demo
-| Microphone Input                                                | File Input                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <video src='https://github.com/user-attachments/assets/25807982-aa95-4633-9e92-10d995900258' width="100%"/> | <video src='https://github.com/user-attachments/assets/df8d79ba-63db-487c-a4a9-f183372168a1' width="100%"/> |
+
+<p align="center" width="100%">
+🎧 Vision-grounded Speech Interaction (simultaneously produce intermediate text) 🎧
+</p>
+
+https://github.com/user-attachments/assets/25807982-aa95-4633-9e92-10d995900258
+
+https://github.com/user-attachments/assets/df8d79ba-63db-487c-a4a9-f183372168a1
 
 > [!NOTE]
 >
